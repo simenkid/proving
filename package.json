@@ -1,6 +1,6 @@
 {
   "name": "proving",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Validate then throw.",
   "main": "index.js",
   "scripts": {
